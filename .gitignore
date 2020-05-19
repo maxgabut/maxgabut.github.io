@@ -1,4 +1,4 @@
 _site
 _cache
-.saas-cache/*
+.sass-cache/*
 *.lock
